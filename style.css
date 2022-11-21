@@ -1,0 +1,340 @@
+      
+.button_record {
+  position: absolute;
+  margin-top: 696px;  
+  margin-left: 415px;
+  animation-name: button_record;
+  animation-duration: 2s;
+  animation-iteration-count: infinite; 
+  }
+
+  @keyframes button_record {
+    0% {
+      scale: 1
+    }
+    100% {
+      scale: 1.2
+    }
+  }
+    
+
+#logo {
+        position: absolute;
+        margin-top: 84px;
+        margin-left: 90.99px;
+}
+
+      #cat_dog {
+        position: absolute;
+        margin-top: 295px;
+        margin-left: 1086px;
+      }
+
+
+.nav   {
+  position: absolute;
+  margin-top: 105px;
+  height: 20px;
+}    
+
+#volgograd {
+  position: absolute;
+  margin-top: 105px;
+  height: 20px;
+} 
+
+#cabinet {
+  margin-left: 415px;
+}
+
+#uslugi {
+  margin-left: 680px;
+}
+
+#news {
+  margin-left: 821px;
+}
+      
+#contact {
+margin-left: 1095px;
+}
+
+#blog {
+margin-left: 1283px;
+}
+
+#volgograd {
+  margin-left: 1721px;
+}
+
+.cosial {
+  position: absolute;
+  margin-top: 960px;
+  height: 40px;
+  width: 40px;
+  }
+
+#insta {
+  margin-left: 415px;
+}
+
+#fb {
+  margin-left: 505px;
+}
+
+#vk {
+margin-left: 595px;
+}
+
+#youtube {
+  margin-left: 685px;
+}
+
+#name {
+  position: absolute;
+  margin-top: 170px;
+  margin-left: 415px;
+  font-size: 100px;
+  line-height: 0.5;
+  font-family: "Alegreya", serif;
+}
+
+      #phone {
+        position: absolute;
+        margin-top: 960px;
+        margin-left: 1630px;
+        font-size: 24px;
+        font-family: "Futura New", serif;
+        white-space: nowrap;
+      }
+      #place {
+        position: absolute;
+        margin-top: 100px;
+        margin-left: 1682px;
+      }
+
+      .bird {
+        margin-top:200px;
+        overflow: hidden;
+        }
+      
+      .bird :first-child {
+        font-family: SchoolBook;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 144px;
+        line-height: 110px;
+        margin: 20px;
+        margin-left: 700px;
+      }
+      
+      .bird p {
+        font-family: "Futura New";
+        font-weight: 400;
+        font-size: 80px;
+        line-height: 110px;
+        margin: 5px;
+        margin-left: 700px;
+      }
+
+      .bird img {
+        margin-left: 1000px; 
+      }
+
+      .card {
+        width: 320px;
+        height: 220px;
+      }
+
+      .container {
+        position: absolute;
+        margin-top: 1231px;
+        width: 1500px;
+        height: 1000px;
+        margin-left: 500px;
+      }
+
+      .history {
+        position: absolute;
+        margin-top: 2333px;
+        margin-left: 720px;
+        width: 600px; 
+      }
+
+      .history_item {
+        font-family: "Futura New";
+        line-height: 30px;
+        vertical-align: top;
+      }
+
+      .history :first-child {
+        font-family: SchoolBook;
+        font-size: 40px;
+        Line-height: 40px;
+        vertical-align: Top;
+      }
+
+      .history :last-child {
+        font-size: 20px;
+        height: 20px;
+        color:#FFC59E;
+        font-family: "Futura New";
+      }
+
+      .doc {
+        margin-top: 2881px;
+        margin-left: 150px;
+      }
+
+      .title {
+        font-size: 40px;
+        line-height: 40px;
+      }
+
+      .title2 {
+        font-size: 30px;
+        line-height: 40px;
+      }
+
+      .title3 {
+        font-size: 20px;
+        line-height: 30px;
+      }
+      
+      .doc .title {
+        margin-left:400px;
+      }
+
+      .usluga .title {
+        margin-top:200px ;
+        margin-left:700px;
+      }
+
+      .usluga_text {
+        max-width: 318px;
+        font-size: 20px;
+      line-height: 30px;
+      }
+
+      .usluga .title2 {
+        width: 484px;
+        font-size: 30px;
+        line-height: 40px;
+      }
+
+      .apps {
+      background: #FFC59E;
+      height: 1080px;
+      width: 100%;
+      padding: 10px;
+   }
+
+   .apps-title1 {
+    font-size: 30px;
+    line-height: 20px;
+    margin-top: 251px;
+    margin-left: 230px;
+    width: 73px;
+    color: white;
+  }
+
+  .apps-title2 {
+    height: 330px;
+    width: 826px;
+    margin-left: 230px;
+  }
+
+  .apps-title2 p {
+    color: white;
+    font-size: 85px;
+  line-height: 0.5;
+  font-family: "Alegreya", serif;
+  padding: 0;
+  margin-top: 5px;
+  }
+
+  .apps-img1 {
+    position: absolute;
+    margin-top: -300px; 
+    margin-left:300px;
+  }
+
+  .apps-img2 {
+    padding: 0;
+    margin-left: 225px;
+  }
+
+  .apps-img3 {
+    padding: 10px;
+  }
+
+  .apps-img4 {
+    margin-top: -500px; 
+    margin-left:1400px;
+  }
+
+.contact {
+  width: 100%;
+  padding-left: 230px;
+  padding-bottom: 209px;
+}
+
+.title-contact {
+  padding-top: 230px;
+        font-size: 40px;
+        line-height: 40px;
+}
+
+   .contact .map {
+    margin-top: -700px;
+    margin-left: 500px;
+   }
+
+      .contact-items {
+    width: 484px;
+   }
+
+   .contact-item {
+    width: 318px;
+    text-decoration: none;
+   }
+
+   .contact ul {
+    font-size: 20px;
+    line-height: 30px; 
+    width: 318px;  
+    padding: 0 0 0 23px; 
+    list-style: none;
+   }
+
+   .list {
+    font-size: 20px;
+    line-height: 30px;
+   }
+
+   .list-item1 {
+    background: url(./image3/Facebook\ Places.png) left no-repeat;
+    padding: 0px 0px 15px 33px;
+    font-size: 20px;
+    line-height: 30px;
+       }
+
+    .list-item2 {
+      background: url(./image3/Vector.png) left no-repeat;
+      padding: 0px 0px 15px 33px;
+      font-size: 20px;
+      line-height: 30px;
+    }   
+
+    .list-item3 {
+      background: url(./image3/Group\ \(2\).png) left no-repeat;
+      padding: 0px 0px 15px 33px;
+      font-size: 20px;
+      line-height: 30px;
+    }
+
+    .contact .title {
+      border: 1px solid black;
+      padding: 0;
+      margin: 0;
+    }  
